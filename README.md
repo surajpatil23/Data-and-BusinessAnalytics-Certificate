@@ -1,5 +1,5 @@
 # Data-Science-Certificate
-I have completed Data Science Course From UV_Technocrats_ERP Training Institute(2023)
+I have completed Data and Business Analytics Corporate Training Program Course From Technip-24 (2024)
 
 
 I have Completed courses Data visualization with Power BI, Python, Tableau  in, Great Learning Academy
